@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Coding Quiz</title>
+        <link rel="stylesheet" href="assets/style.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="scoring">
+            <a href="score.html">
+                View The Highscores
+            </a>
+        </div>
+
+        <div class="timing">
+            Time: 
+            <span id="timer">
+                0
+            </span>
+        </div>
+
+        <div class="wrap">
+            <div id="screen-start" class="commence">
+                <h1>
+                    Coding Quiz Challenge
+                </h1>
+                <p>
+                    Try to answer the code-related questions within the time limit. Keep in mind that incorrect answers will penalize your score/time by ten seconds!
+                </p>
+                <button id="starting">
+                    Start Quiz
+                </button>
+            </div>
+
+            <div id="question" class="hiding">
+                <h2 id="title-question">
+
+                </h2>
+
+                <div id="choice" class="choice">
+
+                </div>
+            </div>
+
+            <div id="screen-end" class="hiding">
+                <h2>
+                    You are now done!
+                </h2>
+                <p>
+                    Your final score is <span id="score-final"></span>
+                    .
+                </p>
+                
+                <p>
+                  Enter your initials: <input type="text" id="init" max="4" />
+                  <button id="submiting">Submit</button>  
+                </p>
+            </div>
+
+            <div id="feedback-1" class="feedback hiding">
+
+            </div>
+        </div>
+        <script src="assets/questions.js"></script>
+        <script src="assets/script.js"></script>
+    </body>
+</html>

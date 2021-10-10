@@ -62,9 +62,9 @@ input[type="text"]{
 }
 
 ol{
-    padding-left: 0px;
     max-height: 400px;
     overflow:auto;
+    padding-left: 0px;
 }
 
 li{

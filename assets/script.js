@@ -6,6 +6,7 @@ var startBtn = document.querySelector("#starting");
 var initialEl = document.querySelector("#init");
 var feedbackEl = document.querySelector("#feedback-1");
 
+//variables for the state of the quiz
 var currentQuestionIndex = 0;
 var timer = questions.length * 15;
 var timerId;

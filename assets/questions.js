@@ -1,3 +1,4 @@
+//Current questions list for the questions to be asked
 var questions = [
     {
         title:"How can you get the type of arguments passed to a function?",

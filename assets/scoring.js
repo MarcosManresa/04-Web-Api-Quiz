@@ -1,6 +1,8 @@
 function highScorePrint(){
+    // Gets scores from the local storage or sets the array empty
     var scorehigh = JSON.parse(window.localStorage.getItem("highscoring")) || [];
 
+    //sorting of the high score in descending order
     scorehigh.sort(function(a,b){
         return b.score - a.score;
     });
@@ -10,7 +12,7 @@ function highScorePrint(){
         var liTag = document.createElement("li");
         liTag.textContent = score.initials + " = " + score.score;
 
-        //displays on page
+        //display the score on page
         var orderEl = document.getElementById("highscoring");
         orderEl.appendChild(liTag);
     });
@@ -23,4 +25,5 @@ function clearHighScoring(){
 
 document.getElementById("clear").onclick = clearHighScoring
 
+//function is ran when the page is done loading
 highScorePrint();

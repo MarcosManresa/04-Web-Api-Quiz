@@ -6,14 +6,13 @@
 <a name="description"></a>
 ## 1. Description
 
-### This is the layout of the password-generator project
+### This is the layout of the Web-APi-Quiz project
 
 Desktop View:
-![Top-Page](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/xxxvv.PNG)
+![Top-Page](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/homepage.PNG)
 
-Smaller-Device View:
 
-![Phone-view](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/rwrw.PNG)
+
 
 <a name="website-address"></a>
 ## 2. Where to go
@@ -21,31 +20,25 @@ Smaller-Device View:
 ### Open your web browser and enter this link.
 
 ```html
-https://marcosmanresa.github.io/03-Password-Generator/
+https://marcosmanresa.github.io/04-Web-Api-Quiz/
 ```
 
 <a name="usage-tips"></a>
 ## 3. Usage tips to help with issues
 
-### You must select the generate password button. And enter how many characters you want the password to be 8-128. as well as either selecting Ok or Cancel. If you Cancel for all of the options it will give an error asking you to re-try.
+### You must select Start Quiz in order for the questions to start, There is a section for High scores in the top left, allowing you to see your high-scores that are saved during your session.
 
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/4141.PNG)
+![Usage-tip](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/sda.PNG)
 
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/t3t3.PNG)
+![Usage-tip](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/endquiz.PNG)
 
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/6363.PNG)
+![Usage-tip](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/highscore-2.PNG)
 
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/6262.PNG)
-
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/password-gen1.PNG)
-
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/514.PNG)
 
 <a name="psuedo-code"></a>
 ## 4.Psuedo-Code
 
 ### Some of the psuedo-code used to reach this final product
 
-![Psuedo-code](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/Untitled-2021-09-29-2128.png)
+![Psuedo-code](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/vxv.PNG)
 
-![Psuedo-code](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/Untitled-2021-09-29-2229.png)

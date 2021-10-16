@@ -26,13 +26,12 @@ https://marcosmanresa.github.io/05-Web-Api-Schedule/
 <a name="usage-tips"></a>
 ## 3. Usage tips to help with issues
 
-### You must select Start Quiz in order for the questions to start, There is a section for High scores in the top left, allowing you to see your high-scores that are saved during your session.
+### Enter the data for your current time and future time into the text box provided. Once the data has been entered select the save button, to save the data entered into the local machine. Once the page is refreshed if saved correctly it will stay on the page, until deleted.
 
-![Usage-tip](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/sda.PNG)
+![Usage-tip](https://github.com/MarcosManresa/05-Web-Api-Schedule/blob/main/Develop/images/Capture2.PNG)
 
-![Usage-tip](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/endquiz.PNG)
+![Usage-tip](https://github.com/MarcosManresa/05-Web-Api-Schedule/blob/main/Develop/images/capture3.PNG)
 
-![Usage-tip](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/highscore-2.PNG)
 
 
 <a name="psuedo-code"></a>
@@ -40,5 +39,5 @@ https://marcosmanresa.github.io/05-Web-Api-Schedule/
 
 ### Some of the psuedo-code used to reach this final product
 
-![Psuedo-code](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/vxv.PNG)
+![Psuedo-code](https://github.com/MarcosManresa/05-Web-Api-Schedule/blob/main/Develop/images/Capture4.png)
 

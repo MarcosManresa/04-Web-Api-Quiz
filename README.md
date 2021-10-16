@@ -20,7 +20,7 @@ Desktop View:
 ### Open your web browser and enter this link.
 
 ```html
-https://marcosmanresa.github.io/04-Web-Api-Quiz/
+https://marcosmanresa.github.io/05-Web-Api-Schedule/
 ```
 
 <a name="usage-tips"></a>
